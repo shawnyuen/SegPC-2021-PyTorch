@@ -4,3 +4,6 @@
 
 ### Data Cleaning
 I trained 5 models for semantic segmentation of PC (5-fold in nnUNet training), and manully corrected reference labels.
+
+### Challenge Terminating
+Because of mask translation in ground truths, I terminated the challenge.
